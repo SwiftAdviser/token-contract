@@ -34,4 +34,5 @@ Compiled contracts are in `build/` folders. Compiled by [func-0.3.0](https://git
 
 ## Security
 
-- [Ton Jetton Audit Report (2025-03-27)](audits/Ton_Jetton_Audit_Report_20250327.pdf)
+The Ton Jetton smart contract has been audited by:
+- TonTech: [Audit Report](./audits/Ton_Jetton_Audit_Report_20250327.pdf)
